@@ -39,7 +39,7 @@ Pentru a rula acest proiect local, urmează acești pași:
 
 1) Clonare depozit:
 
-git clone https://github.com/raztot/Numele-Proiectului-Tau.git
+git clone https://github.com/raztot/QA-Portfolio-Project-
 
 2) Instalare dependențe:
 
