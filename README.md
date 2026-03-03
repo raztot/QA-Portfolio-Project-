@@ -1,8 +1,10 @@
 E-commerce Automation Framework | Selenium & Java
 - Descriere Proiect
+  
 Acest proiect reprezintă un cadru de testare automatizată End-to-End (E2E), construit de la zero pentru a valida fluxurile critice ale unei platforme de e-commerce (SauceDemo). Obiectivul principal a fost implementarea unei arhitecturi scalabile și ușor de întreținut, utilizând bunele practici din industrie.
 
 - Arhitectură: Page Object Model (POM)
+  
 Cadrul utilizează design pattern-ul Page Object Model, asigurând o separare completă între logica testelor și elementele UI (locatori).
 
 Base: Conține BaseTest, clasa părinte care gestionează ciclul de viață al driverului (Setup/Teardown).
